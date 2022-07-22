@@ -73,8 +73,6 @@ ample opportunities to grow and learn new skills.
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Dsjamwal&&style=flat-square)  
-  
 
 <br/>  
 
@@ -82,4 +80,3 @@ ample opportunities to grow and learn new skills.
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
