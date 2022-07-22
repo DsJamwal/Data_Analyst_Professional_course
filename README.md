@@ -25,7 +25,6 @@ ample opportunities to grow and learn new skills.
 <br/>  
 
 
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🌱 I am currently pursuing a MSc in Machine Learning and AI from LJMU along with a PGD in Machine Learning and AI From IIIT Bangalore.  
